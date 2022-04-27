@@ -1,0 +1,83 @@
+.contact {
+    text-align: center;
+}
+
+.contactA {
+    align-items: center;
+    margin-left: 10px;
+}
+
+.contactPage {
+    height: 50vh;
+}
+
+.footer {
+    height: 20vh;
+}
+
+.h1 {
+    margin-top: 10%;
+    margin-bottom: 50px;
+    font-size: 150 px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+.h1P {
+    margin-bottom: 50px;
+    font-size: 150 px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+.home {
+    height: 70vh; /* Magic here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+}
+
+.homeText {
+    margin-left: 35px;
+}
+
+.info {
+    margin: 70px;
+    font-size: 20px;
+}
+
+.navTK {
+    height: 100px;
+    float: left;
+}
+
+.project {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid
+}
+
+.projects {
+    content: "";
+  clear: both;
+  display: table;
+  margin: 50px 150px;
+}
+
+.TK {
+    display: block;
+    float: right;
+    border-radius: 50px 15px;
+    margin: 0 15px 0 0;
+    height: 250px;
+}
+
+article {width: 320px; padding: 20px; border: 1px solid #c9c9c9;}
