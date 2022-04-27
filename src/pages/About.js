@@ -4,7 +4,7 @@ import TK from '../img/TK.jpg';
 
 export default function About(){
     return(
-        <div>
+        <div className="contactPage">
             <div>
                 <h1 className="h1">About Me</h1>
             </div>
