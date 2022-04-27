@@ -46,6 +46,25 @@ export default function Projects() {
               </p>
             </div>
           </div>
+
+          {/* <div>
+            <div>
+              <p className="innerText">
+                This was a project that focused on using routes, handbars, and
+                backend code to acheive a functional web application. We decided
+                on creating a forum page based around a fictional dungeon
+                crawler MMO called 'Mouse Quest'. A visitor to the page is able
+                to create a profile with an email address, unique username, and
+                thier own password to login. Users are able to create an account
+                and post what they think the best builds are for thier
+                characters. The post will display all user input and the
+                username of the person who posted it.
+              </p>
+            </div>
+            <a href="" target="_blank">
+              <img src={} />
+            </a>
+          </div> */}
         </section>
   );
 }
