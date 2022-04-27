@@ -1,15 +1,3 @@
-.blinking-cursor:after {
-    content: '|';
-    color: red;
-    animation: blink 1s step-start infinite;
-}
-
-@keyframes blink {
-    50% {
-        opacity: 0;
-    }
-}
-
 .contact {
     text-align: center;
 }
@@ -27,8 +15,21 @@
     text-align: center;
 }
 
+.home {
+    height: 100vh; /* Magic here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .info {
-    margin: 50px;
+    margin: 70px;
     font-size: 20px;
 }
 
