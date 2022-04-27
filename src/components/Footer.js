@@ -44,7 +44,16 @@ export default function Footer() {
             >
                 <p class="footer-text text-center">
                     Made with
-                    <img alt="❤️" draggable="false" src="https://twemoji.maxcdn.com/2/72x72/2764.png" style="height: 1em; width: 1em; margin: 0px 0.05em 0px 0.1em; vertical-align: -0.1em;" />
+                    <img alt="❤️"
+                    draggable="false"
+                    src="https://twemoji.maxcdn.com/2/72x72/2764.png"
+                    style={{
+                        height: '1em',
+                        width: '1em',
+                        margin: '0px 0.05em 0px 0.1em',
+                        verticalAlign: '-0.1em'
+                        }}
+                        />
                     by Jesus Balandra
                 </p>
             </div>
