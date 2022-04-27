@@ -1,9 +1,10 @@
 import React from 'react';
 import About from './pages/About'
+import Contact from './pages/Contact'
 
 const App = () =>
     <>
-    <About />
+    <Contact />
     </>
 
 export default App;

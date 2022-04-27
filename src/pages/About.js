@@ -1,10 +1,11 @@
 import React from 'react';
+import '../style/Style.css';
 
 export default function About(){
     return(
         <div>
             <div>
-                <h1>About Me</h1>
+                <h1 className="h1">About Me</h1>
             </div>
             <div>
                 <p>Welcome to my page! I'm Jesus Balandra! I am a full stack developer, graduate of the University of Denver's full stack boot camp!</p>
