@@ -1,6 +1,9 @@
 {
-  "name": "React_Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
   "private": true,
   "homepage": "http://oddtk.github.io/React_Portfolio",
   "dependencies": {
